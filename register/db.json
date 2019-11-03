@@ -1,0 +1,10 @@
+{
+    "error": false,
+    "message": "Success",
+    "user": {
+        "id": 5,
+        "name": "Jossey Jay",
+        "email": "sjsj@skdk.com",
+        "gender": "Male"
+    }
+}
