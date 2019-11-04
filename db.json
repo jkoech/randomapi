@@ -22,5 +22,31 @@
         "gender": "Male"
       }
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bhaque khan",
+      "email": "bh@gmail.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Ramiz Khan",
+      "email": "bela12@gmail.com",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Belal Khan",
+      "email": "b1ela12@gmail.com",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Belal Khan",
+      "email": "xyz@gmail.com",
+      "gender": "Male"
+    }
   ]
 }
