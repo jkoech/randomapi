@@ -1,0 +1,26 @@
+{
+  "register": [
+    {
+      "error": false,
+      "message": "Success!",
+      "user": {
+        "id": 5,
+        "name": "Tarik Assagai",
+        "email": "tarikstuff@me.com",
+        "gender": "Male"
+      }
+    }
+  ],
+  "login": [
+    {
+      "error": false,
+      "message": "Success!",
+      "user": {
+        "id": 5,
+        "name": "Tarik Assagai",
+        "email": "tarikstuff@me.com",
+        "gender": "Male"
+      }
+    }
+  ]
+}
